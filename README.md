@@ -1,12 +1,11 @@
 
-# Ferramentas de Pesquisa de Mercado com IA
+# Assistentes de Pesquisa
 
 ## Descrição
 
-Esta aplicação é uma ferramenta desenvolvida para analisar o mercado e criar estratégias de negócios utilizando modelos avançados de inteligência artificial. Através de uma interface Streamlit, os usuários podem fornecer o nome de um produto e obter análises detalhadas sobre demanda, comportamento do consumidor, concorrência, tendências, feedback de clientes e muito mais.
+Esta aplicação é uma ferramenta desenvolvida para realizar pesquisas de mercado utilizando modelos avançados de inteligência artificial. Através de uma interface Streamlit, os usuários podem fornecer o nome de um produto e obter análises detalhadas sobre demanda, comportamento do consumidor, concorrência, tendências, feedback de clientes e muito mais.
 
-<img src="https://i.imgur.com/yTozdF5.png" alt="Exemplo imagem" width="90%" >
-<img src="https://i.imgur.com/B3baiJq.png" alt="Exemplo imagem" width="90%" >
+
 
 ---
 
@@ -41,7 +40,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/NonakaVal/new_mkt_research_tools.git
+   git clone https://github.com/NonakaVal/ecommerce_search_assistent.git
    ```
 
 2. **Crie um Ambiente Virtual**
