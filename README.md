@@ -6,6 +6,9 @@
 Esta aplicação é uma ferramenta desenvolvida para realizar pesquisas de mercado utilizando modelos avançados de inteligência artificial. Através de uma interface Streamlit, os usuários podem fornecer o nome de um produto e obter análises detalhadas sobre demanda, comportamento do consumidor, concorrência, tendências, feedback de clientes e muito mais.
 
 
+<img src="https://i.imgur.com/yTozdF5.png" alt="Exemplo imagem" width="90%" >
+<img src="https://i.imgur.com/B3baiJq.png" alt="Exemplo imagem" width="90%" >
+
 
 ---
 
